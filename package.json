@@ -1,0 +1,13 @@
+{
+  "name": "rowater",
+  "version": "1.0.0",
+  "repository": "https://github.com/rahulbansalme/rowater.git",
+  "author": "Rahul Bansal <rahulbansal.171089@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fullpage.js": "^2.9.7"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
